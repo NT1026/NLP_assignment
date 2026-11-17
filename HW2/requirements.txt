@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cu132
+matplotlib==3.11.2
+numpy==2.5.4
+OpenCC==1.4.2
+pandas==3.1.0
+seaborn==0.13.2
+scikit-learn==1.9.1
+torch
+tqdm==4.70.1
